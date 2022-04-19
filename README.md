@@ -1,2 +1,4 @@
-# LMS
-Portfolio of Myosin Lee, a Writer for children
+# 이묘신 작가 포트폴리오
+
+- 동화·동시 작가 이묘신의 팬 페이지입니다.
+- 이 사이트는 공식이 아님을 알립니다.
